@@ -1,0 +1,27 @@
+{
+  "short_name": "Tracker Gym",
+  "name": "💪 Tracker de Entrenamientos - 4 Semanas Intensivas",
+  "description": "App para trackear tu progreso en entrenamientos de 4 semanas - dominadas, peso y más",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#f3f4f6",
+  "orientation": "portrait"
+}
